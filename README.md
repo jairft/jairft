@@ -1,6 +1,6 @@
 #Olá! Eu sou Jair Freitas 😁
 
-- 🔭 Estou estudando para desenvolvimento mobile
+- 🔭 Atualmente estou estudando para desenvolvimento mobile
 - 🌱 Estudando Java e Kotlin
 - 😄 Pronouns: ele/dele
 

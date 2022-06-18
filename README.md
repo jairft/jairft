@@ -1,4 +1,4 @@
-#Olá! Eu sou Jair Freitas 👋
+#Olá! Eu sou Jair Freitas 😁
 
 - 🔭 Estou estudando para desenvolvimento mobile
 - 🌱 Estudando Java e Kotlin

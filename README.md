@@ -5,7 +5,7 @@
 - 😄 Pronouns: ele/dele
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairft&color=yellow" alt="Profile views" /></p>
 
-##
+## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
 
   <a href="https://github.com/jairft">
@@ -25,7 +25,7 @@
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
   
-  ##
+  ## 👨🏽‍🦲 &nbsp;Social Links
   
   <div> 
      <a href="https://www.linkedin.com/in/jair-freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

@@ -3,6 +3,8 @@
 - 🔭 Graduando em Análise e desenvolvimento de sistemas
 - 🌱 Estudando Java e Kotlin
 - 😄 Pronouns: ele/dele
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jairft&color=yellow" alt="Profile views" /> </p>
+
 ##
 <div align="center">
 

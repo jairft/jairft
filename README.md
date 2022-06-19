@@ -1,10 +1,10 @@
 <h1 align="left">Hello👋🏽, I'm Jair Freitas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairft&color=yellow" alt="Profile views" /></p>
 
-- 🔥 Graduando em Análise e desenvolvimento de sistemas
+- 🔥 Graduating in Systems Analysis and Development
 - 👀 I’m interested in Java, Kotlin, Spring e Android
-- 🌱 Estudando Java e Kotlin
-- 😄 Pronouns: ele/dele
+- 🌱 Studying Java and Kotlin
+- 😄 Pronouns: he/his
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">

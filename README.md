@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairft&color=yellow" alt="Profile views" /></p>
 
 - 🔥 Graduating in Systems Analysis and Development
-- 👀 I’m interested in Java, Kotlin, Spring e Android
+- 👀 I’m interested in Java, Kotlin, Spring and Android
 - 🌱 Studying Java and Kotlin
 - 😄 Pronouns: he/his
 

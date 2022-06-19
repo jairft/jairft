@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairft&color=yellow" alt="Profile views" /></p>
 
 - 🔥 Graduando em Análise e desenvolvimento de sistemas
+- 👀 I’m interested in Java, Kotlin, Spring e Android
 - 🌱 Estudando Java e Kotlin
 - 😄 Pronouns: ele/dele
 

@@ -1,9 +1,6 @@
 <h1 align="left">Hello👋🏽, I'm Jair Freitas</h1>
 
-<div align="left">
-
-![](https://komarev.com/ghpvc/?username=jairft2004&style=for-the-badge&color=green)
- </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jairftt&color=blue" alt="Profile views" /></p>
 
 - 🔥 Graduating in Systems Analysis and Development
 - 👀 I’m interested in Java, Kotlin, Spring and Android

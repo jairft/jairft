@@ -1,6 +1,6 @@
 <h1 align="left">Hello👋🏽, I'm Jair Freitas</h1>
 
-<div align="center">
+<div align="left">
 
 ![](https://komarev.com/ghpvc/?username=jairft2004&style=for-the-badge&color=green)
  </div>

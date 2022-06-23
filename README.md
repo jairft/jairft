@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairftt&color=blue" alt="Profile views" /></p>
 
 - 🔥 Graduating in Systems Analysis and Development

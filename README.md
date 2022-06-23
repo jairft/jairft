@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello👋,+how+are+you?;Nice+to+meet+you!;I'm+Jair+Freitas&center=true&size=30">
+  </a>
+</h1>
+
 <h1 align="left">Hello:wave:, I'm <a href="https://github.com/jairft"><i>Jair Freitas</i></a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairftt&color=blue" alt="Profile views" /></p>

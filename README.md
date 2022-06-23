@@ -1,4 +1,4 @@
-<h1 align="left">Hello👋🏽, I'm Jair Freitas</h1>
+<h1 align="left">Hello:wave:, I'm <a href="https://www.linkedin.com/in/jair-freitas/"><i>Jair Freitas</i></a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairftt&color=blue" alt="Profile views" /></p>
 

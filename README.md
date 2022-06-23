@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-<h1 align="left">Hello:wave:, I'm <a href="https://github.com/jairft"><i>Jair Freitas</i></a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairftt&color=blue" alt="Profile views" /></p>
 
